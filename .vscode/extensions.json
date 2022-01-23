@@ -1,0 +1,17 @@
+{
+    "recommendations": [
+        // Indispensable extensions
+        "github.copilot", // Copilot extension
+        "eamodio.gitlens", // GitLens extension
+        "ms-python.vscode-pylance", // PyLance extension
+        "ms-python.python", // Python extension
+        "dongli.python-preview", // Python preview extension
+        "ms-vscode.test-adapter-converter", // Python test explorer adapter converter extension
+        "hbenl.vscode-test-explorer", // Test explorer UI extension
+        "littlefoxteam.vscode-python-test-adapter", // Python test explorer extension
+        "bungcip.better-toml", // Better TOML files extension
+        // Optional extensions
+        "vscode-icons-team.vscode-icons", // VS Code Icons extension
+        "dracula-theme.theme-dracula", // Dracula theme
+    ]
+}
